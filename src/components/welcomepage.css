@@ -1,0 +1,30 @@
+.app {
+    text-align: center;
+    width: 100%;
+    
+}
+.app-header {
+    background-image: linear-gradient(79deg, #234fd2, #4298ba 48%, #4df7b3);
+    /* background-color: #B3C0FF; */
+    width: 100%;
+    /* min-height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start; */
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    /* padding: 1vh; */
+    /* padding-bottom: 25vh; */
+    color: black;
+    font-family: serif;
+}
+b {
+    font-size: 35px;
+}
+.app p {
+    font-size: 20px;
+}
+.app h1 {
+    line-height: 8em;
+    font-size: 250%;
+}

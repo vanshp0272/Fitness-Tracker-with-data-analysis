@@ -1,0 +1,96 @@
+.login {
+    width: 400px;
+    height: 350px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    padding: 4rem;
+    /* padding-top: 4rem; */
+}
+h1 {
+  font-size: 3rem;
+}
+
+.login > input{
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    margin-top: 6%;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1.5rem;
+}
+
+.login > .button{
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+ p, a{
+  font-size: 1.5rem;
+ }
+
+
+
+/* .position-relative{
+    width: 100%;
+  }
+  .background-radial-gradient {
+      background-color: hsl(218, 41%, 15%);
+      background-image: radial-gradient(650px circle at 0% 0%,
+          hsl(218, 41%, 35%) 15%,
+          hsl(218, 41%, 30%) 35%,
+          hsl(218, 41%, 20%) 75%,
+          hsl(218, 41%, 19%) 80%,
+          transparent 100%),
+        radial-gradient(1250px circle at 100% 100%,
+          hsl(218, 41%, 45%) 15%,
+          hsl(218, 41%, 30%) 35%,
+          hsl(218, 41%, 20%) 75%,
+          hsl(218, 41%, 19%) 80%,
+          transparent 100%);
+    }
+    .ripple.ripple-surface.ripple-surface-light.btn.btn-primary.btn-md.w-100.mb-4 {
+  
+    }
+    .container-fluid.p-4.background-radial-gradient.overflow-hidden {
+      height: 100%;
+    }
+    #radius-shape-1 {
+      height: 220px;
+      width: 220px;
+      top: -60px;
+      left: -130px;
+      background: radial-gradient(#44006b, #ad1fff);
+      overflow: hidden;
+    }
+    
+    #radius-shape-2 {
+      border-radius: 38% 62% 63% 37% / 70% 33% 67% 30%;
+      bottom: -60px;
+      right: -110px;
+      width: 300px;
+      height: 300px;
+      background: radial-gradient(#44006b, #ad1fff);
+      overflow: hidden;
+    }
+    
+    .bg-glass {
+      background-color: hsla(0, 0%, 100%, 0.9) !important;
+      backdrop-filter: saturate(200%) blur(25px);
+    } */
